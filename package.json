@@ -1,0 +1,11 @@
+{
+  "name": "gen_token_agora",
+  "version": "1.0.0",
+  "description": "genarate chat token agora",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "quanhh",
+  "license": "ISC"
+}
