@@ -4,7 +4,7 @@
   "description": "genarate chat token agora",
   "main": "index.js",
   "scripts": {
-    "test": "index.js"
+    "start": "node index.js"
   },
   "author": "quanhh",
   "license": "ISC"
